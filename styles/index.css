@@ -1,4 +1,12 @@
 body{
     background-color: bisque;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+}
+h1{
+    background-color: aquamarine;
+    border-radius: 10px;
+    max-width: 250px;
+    padding-left: 20px;
+    align-content: center;
 }
